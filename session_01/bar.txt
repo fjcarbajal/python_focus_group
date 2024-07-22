@@ -1,0 +1,1 @@
+So this is me practicing how to use command line codes.So one thing to note is in Unix, names do not use the space bar, they have to use the _
