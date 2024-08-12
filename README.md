@@ -14,3 +14,9 @@ NA; worked on UNIX commands only
 
 ## Session_03
 hello_world.py: A Python script that prints "Hello, World!" when run
+
+## Session_04
+comments.py: python script edited through Notepad++
+comments_old.py: ignore this file, it was edited using nano function and not Notepad++
+variables.py: python script used to understand the importance of variables and variable names in python - very similar as with R
+
