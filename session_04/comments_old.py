@@ -1,0 +1,1 @@
+I just got Notepad ++ downloaded, so I shouldn't use this file version anymore. This file was created using the terminal nano function. I created the other version through Notepad ++ and saved it in the python_focus_group folder
