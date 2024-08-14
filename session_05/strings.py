@@ -18,3 +18,6 @@ str1 = "Hello world"
 str2 = "Spring is coming!"
 str3 = "My dog ate 3 slices of my pizza"
 str4 = "I can't believe my dog did that"
+
+#You can overwrite functions
+#str() is a function so don't name anything as str = 
