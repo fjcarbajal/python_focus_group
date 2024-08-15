@@ -22,6 +22,13 @@ str4 = "I can't believe my dog did that"
 #You can overwrite functions
 #str() is a function so don't name anything as str = 
 
+'''
+Escape Sequences: how to incorporate formatting into your script
+\n starts a new line
+\t inserts a tab
+\\ makes the \ get interpreted as a character
+'''
+
 # String operations
 original_str = "Viki is teaching me how to code in Python"
 
