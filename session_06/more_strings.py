@@ -25,3 +25,11 @@ a good way to think about it is: [start index, end index + 1]
 '''
 last_index = string_to_index[-1]
 print(last_index)
+
+# Strides
+every_2nd_value = string_to_index[::2]
+print(every_2nd_value)
+
+complicated_stride = string_to_index[0:5:2]
+print(complicated_stride)
+#here the syntax is that you are starting with 0, ending at 5, and want every 2nd value
