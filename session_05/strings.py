@@ -53,9 +53,9 @@ print(right_strip)
 print(left_strip)
 
 #In Python, strings are considered objects
-# When dealing with objects, the syntax is function comes after the variable
-# Ex) upper_str.replace the function (replace) comes after the object
-# And since the functions we were learning (upper, lower) they are specific to strings
-# Then we follow object syntax and put the function afterwards
+# When dealing with objects, the syntax is: function comes after the variable
+# Ex) upper_str.replace the function (replace) comes after the object/string
+# The exception is since the functions we were learning today (upper, lower) 
+#they are specific to strings then we follow object syntax and put the function afterwards
 
 # Google if you don't know if you are working with objects or other data types

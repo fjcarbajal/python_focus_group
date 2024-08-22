@@ -21,8 +21,13 @@ comments_old.py: ignore this file, it was edited using nano function and not Not
 variables.py: python script used to understand the importance of variables and variable names in python - very similar as with R
 
 ## Session_05
-strings.py: an introduction into strings with Python
+strings.py: an introduction into strings (text types) with Python
 
 ## Session_06
 more_strings.py: learning about different ways to format strings, the best way is f-strings
+The above file also has notes on string operations
 extra_practice.py: a file to go through the extra practice problems
+
+
+## Session_07
+Focused on numeric types (Integers, Floats, and Complexes)
