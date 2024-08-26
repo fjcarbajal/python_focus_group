@@ -31,3 +31,10 @@ extra_practice.py: a file to go through the extra practice problems
 
 ## Session_07
 Focused on numeric types (Integers, Floats, and Complexes)
+
+## Session_08
+complex_math.py:Introduction of using "math" module 
+espression.py: how to perform math operations
+numeric_types.py: integers, floats, complexes
+type_casting.py: how to convert data types
+
