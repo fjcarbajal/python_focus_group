@@ -38,3 +38,5 @@ type_casting.py: how to convert data types
 
 ## Session_08
 Focuses on Sequence Types (Tuples, Lists, and Ranges)
+tuples.py: goes into how they can't be changed but we can transform them into lists to be able to manipulate them
+lists.py: Left off here
