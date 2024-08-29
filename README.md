@@ -24,6 +24,7 @@ variables.py: python script used to understand the importance of variables and v
 strings.py: an introduction into strings (text types) with Python
 
 ## Session_06
+Come back here for indexing review
 more_strings.py: learning about different ways to format strings, the best way is f-strings
 The above file also has notes on string operations
 extra_practice.py: a file to go through the extra practice problems
@@ -39,4 +40,8 @@ type_casting.py: how to convert data types
 ## Session_08
 Focuses on Sequence Types (Tuples, Lists, and Ranges)
 tuples.py: goes into how they can't be changed but we can transform them into lists to be able to manipulate them
-lists.py: Left off here
+lists.py: Lists are super useful, and probably one of the most powerful data types you can use in Python 
+ranges.py: Ranges follow similar formatting to indexes, but be mindful of how indexes and ranges work. In general, the syntax is (first number in range, last number in range + 1, every Xth value)
+
+## Session_09
+
