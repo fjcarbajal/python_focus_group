@@ -23,3 +23,24 @@ dict3 = {
   "year": 2020
 }
 print(dict3["brand"])
+
+# Add new value dictionary entry
+dict3["owner"] = "Sadie"
+print(dict3)
+
+# Delete dictionary entry
+del(dict3["owner"])
+print(dict3)
+
+# Check if elements are in the dictionary (note that it only works for keys)
+check1 = "owner" in dict3
+print(check1)
+check2 = "year" in dict3
+print(check2)
+check3 = 2020 in dict3
+print(check3)
+
+# View all keys
+print(dict3.keys())
+# View all values
+print(dict3.values())
