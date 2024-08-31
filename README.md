@@ -44,4 +44,8 @@ lists.py: Lists are super useful, and probably one of the most powerful data typ
 ranges.py: Ranges follow similar formatting to indexes, but be mindful of how indexes and ranges work. In general, the syntax is (first number in range, last number in range + 1, every Xth value)
 
 ## Session_09
+dictionaries.py: Dictionaries are a type of collection in Python
+set_types.py: Set types do not have an order, you can't use indexs, not as useful unlike lists
+booleans.py: Any logical operator or statement will produce a Boolean (True/False) output
+
 
