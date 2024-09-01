@@ -53,3 +53,7 @@ booleans.py: Any logical operator or statement will produce a Boolean (True/Fals
 data_types.py: a script with different data types to be familiar with
 for_loops.py: remember for loops as "for every item, do this action" You can have basic, nested, parallel for loops, and even set for dictionaries
 while_loops.py: similar to for loops but the loop will run only if a condition is met. Be careful to not get stuck in a never ending while loop
+
+## Session_11
+conditionals.py: Conditionals are if-else statements but the else part does not always need to be there
+There are many ways to set up conditionals: if-else statements, including "elif" as adding "else if," and including "and" or "or."
