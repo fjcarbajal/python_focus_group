@@ -49,3 +49,7 @@ set_types.py: Set types do not have an order, you can't use indexs, not as usefu
 booleans.py: Any logical operator or statement will produce a Boolean (True/False) output
 
 
+## Session_10
+data_types.py: a script with different data types to be familiar with
+for_loops.py: remember for loops as "for every item, do this action" You can have basic, nested, parallel for loops, and even set for dictionaries
+while_loops.py: similar to for loops but the loop will run only if a condition is met. Be careful to not get stuck in a never ending while loop
