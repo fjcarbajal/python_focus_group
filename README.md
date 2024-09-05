@@ -57,3 +57,6 @@ while_loops.py: similar to for loops but the loop will run only if a condition i
 ## Session_11
 conditionals.py: Conditionals are if-else statements but the else part does not always need to be there
 There are many ways to set up conditionals: if-else statements, including "elif" as adding "else if," and including "and" or "or."
+
+## Session_12
+functions.py: You can create functions, set defaults, prep recursive, and add descriptions to the function.
