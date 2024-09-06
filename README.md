@@ -64,3 +64,9 @@ functions.py: You can create functions, set defaults, prep recursive, and add de
 ## Session_13
 smiley_argparse.py: a module that lets you incorporate input from command line to determine how the python script will run
 argparse-template.py: a template with required and optional arguments, and switches
+
+## Session_14
+screen is a tool that lets me "switch between tabs/tasks" without losing my place
+You can essentially have code running in one screen while you are doing something else in a separate screen
+TIP: Name your screens based on projects or idicators so you know what is running or what you were focused on in that screen
+screen_cheat_sheet.py: a simple cheat sheet when I need to navigate screen
