@@ -60,3 +60,7 @@ There are many ways to set up conditionals: if-else statements, including "elif"
 
 ## Session_12
 functions.py: You can create functions, set defaults, prep recursive, and add descriptions to the function.
+
+## Session_13
+smiley_argparse.py: a module that lets you incorporate input from command line to determine how the python script will run
+argparse-template.py: a template with required and optional arguments, and switches
