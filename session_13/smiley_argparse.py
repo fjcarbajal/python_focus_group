@@ -38,4 +38,3 @@ else:
     a = ':) \n'
     b = a * arg.num
 print(b)
-
