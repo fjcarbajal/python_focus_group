@@ -16,14 +16,33 @@ print(var4, type(var4))
 
 print("Problem 3:")
 # Converts var5 = -26 to a string.
+var5 = -26
+var5 = str(var5)
+print(var5, type(var5))
+
+print("Problem 4:")
+# Converts var6 = 83 to a float.
+var6 = 83
+var6 = float(var6)
+print(var6, type(var6))
+
+print("Problem 5:")
+#Calculates the sum of var4 and var5.
+print(var4 + int(var5))
+
+print("Problem 6:")
+#Calculates the difference between var2 and var1.
+print(int(var2) - float(var1))
+
+print("Problem 7:")
+#Finds the product of var5 and var3.
+print(int(var5) * float(var3))
+
 
 '''
 
 
-Converts var6 = 83 to a float.
-Calculates the sum of var4 and var5.
-Calculates the difference between var2 and var1.
-Finds the product of var5 and var3.
+
 Raises var3 to the power of var1.
 Assign var7 = 9 and take the square root of it.
 Suppose you have a circle with a radius of 10 cm. What is the circumference of the circle? (Hint: Circumference = 2 * pi * radius)
